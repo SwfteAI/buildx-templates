@@ -1,0 +1,13 @@
+{
+  "id": "nextjs-14-app-router",
+  "framework": "NEXTJS",
+  "displayName": "Next.js 14 (App Router + Tailwind)",
+  "version": "1.0.0",
+  "engines": { "node": ">=20" },
+  "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
+  "postScaffold": ["npm install"],
+  "devCommand": "npm run dev",
+  "buildCommand": "npm run build",
+  "typecheckCommand": "tsc --noEmit",
+  "previewPort": 3000
+}

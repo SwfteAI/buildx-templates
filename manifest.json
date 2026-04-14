@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "templates": [
+    { "id": "nextjs-14-app-router", "framework": "NEXTJS", "path": "nextjs-14-app-router" },
+    { "id": "react-vite-ts", "framework": "REACT_VITE", "path": "react-vite-ts" },
+    { "id": "astro", "framework": "ASTRO", "path": "astro" },
+    { "id": "sveltekit", "framework": "SVELTEKIT", "path": "sveltekit" },
+    { "id": "expo", "framework": "EXPO", "path": "expo" },
+    { "id": "spring-boot-web", "framework": "SPRING_BOOT", "path": "spring-boot-web" }
+  ]
+}

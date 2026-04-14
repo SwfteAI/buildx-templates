@@ -1,0 +1,13 @@
+{
+  "id": "expo",
+  "framework": "EXPO",
+  "displayName": "Expo SDK 50 + expo-router + TypeScript",
+  "version": "1.0.0",
+  "engines": { "node": ">=20" },
+  "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
+  "postScaffold": ["npm install"],
+  "devCommand": "npx expo start --host lan",
+  "buildCommand": "npx expo export",
+  "typecheckCommand": "tsc --noEmit",
+  "previewPort": 8081
+}

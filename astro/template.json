@@ -1,0 +1,13 @@
+{
+  "id": "astro",
+  "framework": "ASTRO",
+  "displayName": "Astro 4 + Tailwind",
+  "version": "1.0.0",
+  "engines": { "node": ">=20" },
+  "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
+  "postScaffold": ["npm install"],
+  "devCommand": "npm run dev -- --host 0.0.0.0",
+  "buildCommand": "npm run build",
+  "typecheckCommand": "astro check",
+  "previewPort": 4321
+}
