@@ -6,8 +6,8 @@
   "engines": { "java": ">=21", "maven": ">=3.9" },
   "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
   "postScaffold": [],
-  "devCommand": "./mvnw spring-boot:run",
-  "buildCommand": "./mvnw -B -DskipTests package",
-  "typecheckCommand": "./mvnw -B -q -DskipTests compile",
+  "devCommand": "mvn spring-boot:run",
+  "buildCommand": "mvn -B -DskipTests package",
+  "typecheckCommand": "mvn -B -q -DskipTests compile",
   "previewPort": 8080
 }

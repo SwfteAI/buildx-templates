@@ -4,7 +4,7 @@ SvelteKit 2 scaffold with TypeScript and Tailwind CSS 3.
 
 ## Pre-baked
 
-- `package.json` with `@sveltejs/kit@2`, `svelte@4`, `vite@5`, `tailwindcss@3`
+- `package.json` with `@sveltejs/kit@2`, `svelte@5`, `vite@6`, `tailwindcss@3`
 - `svelte.config.js` with `@sveltejs/adapter-auto`
 - `vite.config.ts` and `tsconfig.json`
 - `tailwind.config.ts` + `postcss.config.js`

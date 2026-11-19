@@ -1,8 +1,8 @@
 {
   "id": "nextjs-14-app-router",
   "framework": "NEXTJS",
-  "displayName": "Next.js 14 (App Router + Tailwind)",
-  "version": "1.0.0",
+  "displayName": "Next.js 15 (App Router + Tailwind)",
+  "version": "1.1.0",
   "engines": { "node": ">=20" },
   "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
   "postScaffold": ["npm install"],

@@ -1,10 +1,10 @@
 # react-vite-ts
 
-Vite 5 + React 18 + TypeScript (strict) + Tailwind CSS 3.
+Vite 6 + React 18 + TypeScript (strict) + Tailwind CSS 3.
 
 ## Pre-baked
 
-- `package.json` with `vite@5`, `react@18`, `typescript@5`, `tailwindcss@3`
+- `package.json` with `vite@6`, `react@18`, `typescript@5`, `tailwindcss@3`
 - `vite.config.ts`
 - `tsconfig.json` + `tsconfig.node.json` (strict)
 - `tailwind.config.ts` + `postcss.config.js`

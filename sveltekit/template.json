@@ -2,7 +2,7 @@
   "id": "sveltekit",
   "framework": "SVELTEKIT",
   "displayName": "SvelteKit 2 + TypeScript + Tailwind",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": { "node": ">=20" },
   "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
   "postScaffold": ["npm install"],

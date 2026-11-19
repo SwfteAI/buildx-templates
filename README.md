@@ -23,9 +23,9 @@ Placeholders are NOT substituted inside Java package paths.
 
 | ID | Framework | Preview port |
 |---|---|---|
-| nextjs-14-app-router | Next.js 14 App Router + Tailwind | 3000 |
-| react-vite-ts | Vite 5 + React 18 + Tailwind | 5173 |
-| astro | Astro 4 + Tailwind | 4321 |
+| nextjs-14-app-router | Next.js 15 App Router + Tailwind | 3000 |
+| react-vite-ts | Vite 6 + React 18 + Tailwind | 5173 |
+| astro | Astro 7 + Tailwind | 4321 |
 | sveltekit | SvelteKit 2 + Tailwind | 5173 |
 | expo | Expo SDK 50 + expo-router | 8081 |
 | spring-boot-web | Spring Boot 3.4 + Java 21 | 8080 |

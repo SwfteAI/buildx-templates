@@ -2,7 +2,7 @@
   "id": "expo",
   "framework": "EXPO",
   "displayName": "Expo SDK 50 + expo-router + TypeScript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": { "node": ">=20" },
   "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
   "postScaffold": ["npm install"],
