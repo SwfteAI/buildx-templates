@@ -1,10 +1,12 @@
 # nextjs-14-app-router
 
-Next.js 14 App Router scaffold with TypeScript (strict), Tailwind CSS 3, and ESLint.
+Next.js 15 App Router scaffold with TypeScript (strict), Tailwind CSS 3, and ESLint.
+
+The template ID is kept for compatibility with existing BuildX configurations.
 
 ## Pre-baked
 
-- `package.json` with `next@14`, `react@18`, `typescript@5`, `tailwindcss@3`
+- `package.json` with `next@15`, `react@19`, `typescript@5`, `tailwindcss@3`
 - `tsconfig.json` (strict, `@/*` path alias)
 - `tailwind.config.ts` + `postcss.config.js`
 - `next.config.mjs`

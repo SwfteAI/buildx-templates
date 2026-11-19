@@ -17,7 +17,7 @@ The Java package is fixed at `com.example.app`. `{{APP_NAME}}` is only substitut
 
 ## Commands
 
-- `./mvnw spring-boot:run` -> dev on port 8080
-- `./mvnw -B -DskipTests package` -> build executable jar
-- `./mvnw -B -q -DskipTests compile` -> compile check
-- `./mvnw test` -> run tests
+- `mvn spring-boot:run` -> dev on port 8080
+- `mvn -B -DskipTests package` -> build executable jar
+- `mvn -B -q -DskipTests compile` -> compile check
+- `mvn test` -> run tests

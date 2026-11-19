@@ -1,11 +1,12 @@
 # astro
 
-Astro 4 scaffold with TypeScript (strict) and Tailwind CSS via `@astrojs/tailwind`.
+Astro 7 scaffold with TypeScript (strict) and Tailwind CSS via PostCSS.
 
 ## Pre-baked
 
-- `package.json` with `astro@4`, `@astrojs/tailwind`, `tailwindcss@3`
-- `astro.config.mjs` with Tailwind integration
+- `package.json` with `astro@7`, `postcss@8`, `tailwindcss@3`
+- `astro.config.mjs` with preview server configuration
+- `tailwind.config.cjs` and `postcss.config.cjs`
 - `tsconfig.json` extending `astro/tsconfigs/strict`
 - `src/layouts/Layout.astro`
 - `src/pages/index.astro`

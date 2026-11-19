@@ -1,9 +1,9 @@
 {
   "id": "astro",
   "framework": "ASTRO",
-  "displayName": "Astro 4 + Tailwind",
-  "version": "1.0.0",
-  "engines": { "node": ">=20" },
+  "displayName": "Astro 7 + Tailwind",
+  "version": "1.1.0",
+  "engines": { "node": ">=22.23.4" },
   "placeholders": ["APP_NAME", "APP_DESCRIPTION"],
   "postScaffold": ["npm install"],
   "devCommand": "npm run dev -- --host 0.0.0.0",
